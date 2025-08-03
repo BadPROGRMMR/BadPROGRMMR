@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BadPROGRMMR
-- 👀 I’m interested in computer stuff
-- 🌱 I’m currently learning web development
-- 📫 How to reach me ...
+- interested in computer stuff so try to do something with it
+- currently learning software development(web/iot) maybe use some AI(surely it will help)
 
 <!---
 BadPROGRMMR/BadPROGRMMR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
