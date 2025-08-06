@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BadPROGRMMR
-- interested in computer stuff so try to do something with it
+- interested in computer stuff 
 - currently learning software development(web/iot) maybe use some AI(surely it will help)
 
 <!---
